@@ -1,6 +1,7 @@
 Een simpele rekenmachine gemaakt in JavaFX versie 8.2 
 
 **Om dit programma te starten: ga naar dist>rekenmachine.jar**
+
 **Om de sourcecode in te zien: ga naar src/rekenmachine>Rekenmachine.java**
 
 
